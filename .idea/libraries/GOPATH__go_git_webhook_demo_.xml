@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go-git-webhook-demo&gt;">
+    <CLASSES>
+      <root url="file://E:/Go/src/go-git-webhook" />
+      <root url="file://E:/Go/src/algorithms" />
+      <root url="file://E:/Go/src/documents" />
+      <root url="file://E:/Go/src/goblog" />
+      <root url="file://E:/Go/src/godeploy" />
+      <root url="file://E:/Go/src/gocaptcha" />
+      <root url="file://E:/Go/src/go-io" />
+      <root url="file://E:/Go/src/DaoCloudStaticBlog" />
+      <root url="file://E:/Go/src/gosession" />
+      <root url="file://E:/Go/src/web" />
+      <root url="file://E:/Go/src/smartconf" />
+      <root url="file://E:/Go/src/fluentcaptcha" />
+      <root url="file://E:/Go/src/daocloud-nginx-server" />
+      <root url="file://E:/Go/src/cache" />
+      <root url="file://E:/Go/src/github.com" />
+      <root url="file://E:/Go/src/golang.org" />
+      <root url="file://E:/Go/src/goproxy" />
+      <root url="file://E:/Go/src/GoDemo" />
+      <root url="file://E:/Go/src/async" />
+      <root url="file://E:/Go/src/DaoCloud" />
+      <root url="file://E:/Go/src/sourcegraph.com" />
+      <root url="file://E:/Go/src/GoWebAccess" />
+      <root url="file://E:/Go/src/go-git-webhook-client" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://E:/Go/src/go-git-webhook" />
+      <root url="file://E:/Go/src/algorithms" />
+      <root url="file://E:/Go/src/documents" />
+      <root url="file://E:/Go/src/goblog" />
+      <root url="file://E:/Go/src/godeploy" />
+      <root url="file://E:/Go/src/gocaptcha" />
+      <root url="file://E:/Go/src/go-io" />
+      <root url="file://E:/Go/src/DaoCloudStaticBlog" />
+      <root url="file://E:/Go/src/gosession" />
+      <root url="file://E:/Go/src/web" />
+      <root url="file://E:/Go/src/smartconf" />
+      <root url="file://E:/Go/src/fluentcaptcha" />
+      <root url="file://E:/Go/src/daocloud-nginx-server" />
+      <root url="file://E:/Go/src/cache" />
+      <root url="file://E:/Go/src/github.com" />
+      <root url="file://E:/Go/src/golang.org" />
+      <root url="file://E:/Go/src/goproxy" />
+      <root url="file://E:/Go/src/GoDemo" />
+      <root url="file://E:/Go/src/async" />
+      <root url="file://E:/Go/src/DaoCloud" />
+      <root url="file://E:/Go/src/sourcegraph.com" />
+      <root url="file://E:/Go/src/GoWebAccess" />
+      <root url="file://E:/Go/src/go-git-webhook-client" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
