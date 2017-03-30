@@ -1,7 +1,6 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;go-git-webhook-demo&gt;">
     <CLASSES>
-      <root url="file://E:/Go/src/go-git-webhook" />
       <root url="file://E:/Go/src/algorithms" />
       <root url="file://E:/Go/src/documents" />
       <root url="file://E:/Go/src/goblog" />
@@ -23,10 +22,8 @@
       <root url="file://E:/Go/src/DaoCloud" />
       <root url="file://E:/Go/src/sourcegraph.com" />
       <root url="file://E:/Go/src/GoWebAccess" />
-      <root url="file://E:/Go/src/go-git-webhook-client" />
     </CLASSES>
     <SOURCES>
-      <root url="file://E:/Go/src/go-git-webhook" />
       <root url="file://E:/Go/src/algorithms" />
       <root url="file://E:/Go/src/documents" />
       <root url="file://E:/Go/src/goblog" />
@@ -48,7 +45,6 @@
       <root url="file://E:/Go/src/DaoCloud" />
       <root url="file://E:/Go/src/sourcegraph.com" />
       <root url="file://E:/Go/src/GoWebAccess" />
-      <root url="file://E:/Go/src/go-git-webhook-client" />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />
